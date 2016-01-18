@@ -1,0 +1,28 @@
+name: Emstar Contractors
+favicon: null
+layout_spectrum: 0.4743050467222929
+typography_spectrum: 0.07215228653512895
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.41143119987100363
+  lightness: 0.9476525855716318
+  saturation: 0.4700704144779593
+  rhythmicContrast: 0.7118363529443741
+purpose: []
