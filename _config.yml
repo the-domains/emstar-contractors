@@ -1,6 +1,6 @@
 name: Emstar Contractors
 favicon: null
-layout_spectrum: 0.99572
+layout_spectrum: 0.25881
 typography_spectrum: 0.07215228653512895
 title: 'Repairs of homes, businesses and apartments.'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.41143119987100363
+  brandStrength: 0.5
   lightness: 0.9476525855716318
   saturation: 0.4700704144779593
   rhythmicContrast: 0.7118363529443741
