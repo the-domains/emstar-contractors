@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T18:40:44.963Z'
-dateModified: '2016-05-02T18:40:38.453Z'
-title: ' Services for Homeowners'
+datePublished: '2016-05-02T18:41:15.748Z'
+dateModified: '2016-05-02T18:40:48.478Z'
+title: Services for Homeowners
 author: []
+sourcePath: _posts/2016-05-02-services-for-homeowners.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-services-for-homeowners.md
-published: true
 url: services-for-homeowners/index.html
 _type: Article
 
